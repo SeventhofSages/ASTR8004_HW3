@@ -2,7 +2,7 @@
 
 This repository contains ipython notebooks, data, and figures relevant to HW#3 of ASTR8004 - Astronomical Computing for Semester 2, 2024. 
 
-### ipyton Notebooks
+### ipython Notebooks
 
 - q2.ipynb (contains responses to both q1 and q2 of the homework)
 
