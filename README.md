@@ -8,7 +8,7 @@ This repository contains ipython notebooks, data, and figures relevant to HW#3 o
 
 - q3.ipynb (contains responses to q3 of the homework)
 
-- HW3.ipynb (contains combined q2 and q3 notebooks for submission to Wattle)
+- ASTR8004_HW3_u7669373.ipynb (contains combined q1, q2, and q3 notebooks for submission to Wattle)
 
 ### Directories
 
